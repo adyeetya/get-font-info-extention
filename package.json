@@ -1,0 +1,11 @@
+{
+  "name": "font-info",
+  "version": "1.0.0",
+  "description": "Font info extension",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
